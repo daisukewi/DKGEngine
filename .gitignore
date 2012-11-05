@@ -11,3 +11,4 @@
 *.a
 /*.opensdf
 /*.sdf
+/Obj/
