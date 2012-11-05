@@ -5,8 +5,9 @@
 
 # Compiled Dynamic libraries
 *.so
-
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+/*.opensdf
+/*.sdf
